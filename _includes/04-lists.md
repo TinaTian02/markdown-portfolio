@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* sleep
+* watch seventeen on stage
+  * cook my own food
+  * study math
